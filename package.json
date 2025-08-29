@@ -1,8 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "dev": "nodemon api/index.js",
-    "start": "node api/index.js"
+    "dev": "nodemon api/bfhl.js",
+    "start": "node api/bfhl.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
